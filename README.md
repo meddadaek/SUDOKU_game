@@ -27,7 +27,4 @@ Play Sudoku, challenge your mind, or let the solver bot 🛠️ help you out!
 
 ---
 
-## ▶️ Usage
-Run the game:
-```bash
-python game.py
+
