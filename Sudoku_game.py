@@ -306,7 +306,7 @@ def main():
                         key = None
 
                         if board.is_finished():
-                            print("Game over")
+                            print("GAME OVER")
 
             if event.type == pygame.MOUSEBUTTONDOWN:
                 pos = pygame.mouse.get_pos()
